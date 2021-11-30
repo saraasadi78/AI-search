@@ -5,4 +5,4 @@ in this game player needs to find key and use that key to enter a castle and con
 
 cell Types are: Bridge - Animal - Bandit - Castle - Loot - Key 
 
-Uniformed Searches: BFS and DFS
+Uniformed Searches: BFS and DFS and IDS
